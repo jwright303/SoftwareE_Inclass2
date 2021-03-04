@@ -26,3 +26,12 @@ def factCalc(facN):
 			facN = facN - 1
 	#print(facP)
 	return facP
+
+def main():
+	ran = factCalc(7)
+	ran = fibCalc(7)
+
+
+
+	return
+main()
